@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project automates UI and API testing for Upwork and the Noctua Sky website respectively, using Python. Selenium is utilized for UI automation, including grid testing with Selenium Server, while API testing for Noctua Sky is conducted using the `requests` library. The tests follow the Page Object Model (POM) design pattern for better organization and maintainability.
+This project automates UI and API testing for Upwork and the Noctua Sky website respectively, using Python. Selenium is utilized for UI automation, including grid testing with Selenium Server, while API testing for Noctua Sky is conducted using the `requests` library. The tests follow the Page Object Model (POM) design pattern for better organization and maintainability..
 
 ## Tools and Technologies
 
